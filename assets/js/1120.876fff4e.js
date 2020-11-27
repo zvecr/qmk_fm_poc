@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1120],{1130:function(t,e,o){"use strict";o.r(e);var n=o(42),r=Object(n.a)({},(function(){var t=this.$createElement,e=this._self._c||t;return e("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[e("KeyboardReadme",{attrs:{keyboard:"keyboardio/model01"}})],1)}),[],!1,null,null,null);e.default=r.exports}}]);

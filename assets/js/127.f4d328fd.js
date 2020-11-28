@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[127],{1358:function(t,e,n){"use strict";n.r(e);var s=n(42),r=Object(s.a)({},(function(){var t=this.$createElement,e=this._self._c||t;return e("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[e("KeyboardReadme",{attrs:{keyboard:"nek_type_a"}})],1)}),[],!1,null,null,null);e.default=r.exports}}]);
